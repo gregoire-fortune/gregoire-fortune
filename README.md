@@ -11,7 +11,7 @@ Contact : <br>
 </div>
 <br>
 
-- 🗿 My Portfolio [here](https://starfrozen.github.io/) (coming soon)
+- 🗿 My Portfolio [here](https://gregoire-fortune.github.io/) (coming soon)
 - 🎯 Game programming in progress [(p/f/c)](https://github.com/StarFr0zen/pfc) (coming soon)
 
 
