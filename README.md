@@ -5,9 +5,9 @@ Contact : <br>
 [![Gmail Badge](https://img.shields.io/badge/-fortune.gregoire03@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fortune.gregoire03@gmail.com)](mailto:fortune.gregoire03@gmail.com)
 
 <div display="flex">
-  <img width="333" height="auto" src="https://github-readme-stats.vercel.app/api?username=StarFr0zen&show_icons=true&theme=shadow_blue&hide_border=true&include_all_commits=true" />
-  <img width="333" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarFr0zen&layout=compact&theme=shadow_blue&hide_border=true" />
-  <img width="334" height="auto" src="https://streak-stats.demolab.com?user=StarFr0zen&locale=en&mode=daily&theme=shadow_blue&hide_border=true&border_radius=5" />
+  <img width="333" height="auto" src="https://github-readme-stats.vercel.app/api?username=gregoire-fortune&show_icons=true&theme=shadow_blue&hide_border=true&include_all_commits=true" />
+  <img width="333" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoire-fortune&layout=compact&theme=shadow_blue&hide_border=true" />
+  <img width="334" height="auto" src="https://streak-stats.demolab.com?user=gregoire-fortune&locale=en&mode=daily&theme=shadow_blue&hide_border=true&border_radius=5" />
 </div>
 <br>
 
